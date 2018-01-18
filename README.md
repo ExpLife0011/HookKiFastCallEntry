@@ -1,0 +1,2 @@
+# HookKiFastCallEntry
+Hook KiFastCallEntry
